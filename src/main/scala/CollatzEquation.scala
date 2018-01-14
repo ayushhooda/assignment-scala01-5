@@ -18,4 +18,5 @@ class CollatzEquation {
       list
     }
   }
+
 }
